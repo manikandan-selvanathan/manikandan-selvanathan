@@ -1,21 +1,19 @@
 ### Hi there 👋   ![](https://komarev.com/ghpvc/?username=manikandan-selvanathan)
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=manikandan-selvanathan&show_icons=true"
-    alt="Manikandan Selvanathan's GitHub stats"
-    height="180"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=manikandan-selvanathan&layout=compact"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=manikandan-selvanathan"
-    alt="GitHub Streak"
-  />
-</p>
- 
+<table>
+<tr>
+<td align="center" width="60%">
+<img src="https://github-stats-extended.vercel.app/api?username=manikandan-selvanathan&show_icons=true" />
+</td>
+<td align="center" width="40%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manikandan-selvanathan&layout=compact" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=manikandan-selvanathan" />
+
+</div>
